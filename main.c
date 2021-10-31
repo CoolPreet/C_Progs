@@ -9,12 +9,5 @@ int main(void) {
 
   printf("Output : %X\n", var_3);
 
-  printf("Output : %X\n", var_3);
-  printf("Output : %X\n", var_3);
-  printf("Output : %X\n", var_3);
-
-
-  
-
   return EXIT_SUCCESS;
 }
